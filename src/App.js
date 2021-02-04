@@ -7,17 +7,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          测试d
-          Edit <code>src/App.js</code> and save to reload.
+          github action 示例 (React 项目发布到 GitHub Pages)
         </p>
-        {/* <a
+        
+        <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a> */}
+          Learn github action
+        </a>
       </header>
     </div>
   );
